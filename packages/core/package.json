@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "chongyang-cli-dev":"bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -19,5 +22,5 @@
   "dependencies": {
     "@chongyang-cli-dev/utils": "^1.0.2"
   },
-  "gitHead": "0616e62152f0be30197825c242855168e5e76fba"
+  "gitHead": "4784c92e173b3fde19368fcab612a2dc7ddfc258"
 }
