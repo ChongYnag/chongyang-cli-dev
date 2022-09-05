@@ -1,6 +1,6 @@
 {
   "name": "@chongyang-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "jiangchongyang <chongyang.jiang@cyclone-robotics.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@chongyang-cli-dev/utils": "^1.0.1"
+    "@chongyang-cli-dev/utils": "^1.0.2"
   },
   "gitHead": "0616e62152f0be30197825c242855168e5e76fba"
 }
