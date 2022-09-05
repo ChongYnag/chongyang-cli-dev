@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@chongyang-cli-dev/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "0616e62152f0be30197825c242855168e5e76fba"
 }
